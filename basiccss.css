@@ -1,0 +1,65 @@
+* {
+    /* universal selector apply all  */
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /* body selector  */
+    margin: 0px;
+    padding: 0px;
+}
+
+.classs {
+    /* class selector  (multiple)*/
+    background-color: aqua;
+}
+
+#ids {
+    /* id selector (unique)  */
+    background-color: aquamarine;
+}
+
+#basic {
+    font-size: larger;
+    font-size: 100%;
+    font-size: 20px;
+    font-size: 1rem;
+
+
+    color: brown;
+    background-color: rgba(15, 121, 121, 0.79);
+    color: #ffff;
+
+    font-style: italic;
+    font-style: underline;
+
+    text-decoration: underline;
+    text-decoration: dashed;
+    text-decoration: dotted;
+
+    border: 2px solid yellow;
+    border-width: 2px 4px 6px 8px;
+
+    height: 100px;
+    width: 400px;
+}
+
+.boxdesign{
+    border: 2px solid black;
+    height: 300px;
+    width: 500px;
+}
+
+#box1{
+background-color: aqua;
+}
+#box2{
+background-color: blanchedalmond;
+}
+#box3{
+background-color: blueviolet;
+}
+#box4{
+background-color: lightgreen;
+}
