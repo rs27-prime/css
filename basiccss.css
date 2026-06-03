@@ -45,10 +45,12 @@ body {
     width: 400px;
 }
 
-.boxdesign{
+/* .boxdesign{
     border: 2px solid black;
     height: 300px;
     width: 500px;
+    margin-top: 40px;
+    margin-left: 20px;
 }
 
 #box1{
@@ -56,10 +58,47 @@ background-color: aqua;
 }
 #box2{
 background-color: blanchedalmond;
+margin-top: 20px;
+margin-left: 30px;
 }
 #box3{
 background-color: blueviolet;
 }
 #box4{
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    border: 5px solid red;
 background-color: lightgreen;
+} */
+
+
+
+.boxdesign2{
+border: 2px solid black;
+height: 400px;
+width: 600px;
+margin-top: 30px;
+display: flex;
+}
+
+.box{
+    
+}
+
+#box1{
+background-color: aqua;
+}
+
+#box2{
+    background-color:lightgreen;
+}
+
+#box3{
+    background-color: lightpink;
+}
+#box4{
+    background-color: lightseagreen;
 }
