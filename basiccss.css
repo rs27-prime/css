@@ -1,26 +1,30 @@
 body {
     color: white;
 }
-.box1{
-    margin: 20px;
-    height: 200px;
-    width: 200px;
-    background-color: rgba(120, 182, 182, 0.815);
+.box{
+    display: flex;   
 }
-.box2{
-    padding: 20px;
+
+.box1 {
     height: 200px;
     width: 200px;
-    background-color: rgba(155, 26, 17, 0.815);
+    background-color: rgba(39, 185, 185, 1);
 }
-.box3{
-    border: 8px solid yellow;
+
+.box2 {
     height: 200px;
     width: 200px;
-    background-color: rgba(15, 151, 38, 0.815);
+    background-color: rgba(148, 89, 85, 1);
 }
-.box4{
+
+.box3 {
     height: 200px;
     width: 200px;
-    background-color: rgba(57, 10, 127, 0.815);
+    background-color: rgba(19, 113, 34, 1);
+}
+
+.box4 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(80, 24, 162, 1);
 }
